@@ -6,57 +6,57 @@ The HR Analytics Dashboard is a data visualization project built using Microsoft
 
 🎯 Objectives
 
-Analyze employee attrition trends
+*Analyze employee attrition trends
 
-Understand workforce demographics
+*Understand workforce demographics
 
-Track average salary and experience levels
+*Track average salary and experience levels
 
-Measure job satisfaction across departments
+*Measure job satisfaction across departments
 
-Provide interactive and easy-to-understand HR insights
+*Provide interactive and easy-to-understand HR insights
 
 📈 Key Insights Covered
 
-Employee Count & Attrition Rate
+*Employee Count & Attrition Rate
 
-Department-wise Attrition Analysis
+*Department-wise Attrition Analysis
 
-Gender Distribution
+*Gender Distribution
 
-Average Salary & Years of Experience
+*Average Salary & Years of Experience
 
-Education Background Analysis
+*Education Background Analysis
 
-Job Satisfaction by Role
+*Job Satisfaction by Role
 
-Trend Analysis using interactive visuals
+*Trend Analysis using interactive visuals
 
 🛠️ Tools & Technologies
 
-Microsoft Power BI
+*Microsoft Power BI
 
-Power Query – Data Cleaning & Transformation
+*Power Query – Data Cleaning & Transformation
 
-DAX – Basic Calculated Measures
+*DAX – Basic Calculated Measures
 
-Data Modeling
+*Data Modeling
 
-Interactive Visualizations
+*Interactive Visualizations
 
 🧠 Skills Demonstrated
 
-Data Cleaning & Transformation
+*Data Cleaning & Transformation
 
-HR Data Analysis
+*HR Data Analysis
 
-Data Modeling & DAX Basics
+*Data Modeling & DAX Basics
 
-Dashboard Design & Layout
+*Dashboard Design & Layout
 
-Data Visualization & Storytelling
+*Data Visualization & Storytelling
 
-Business Insight Generation
+*Business Insight Generation
 
 🚀 How to Use
 
@@ -74,14 +74,12 @@ This project demonstrates how HR data can be transformed into actionable insight
 
 🔗 Project Link
 
-(Add your Power BI Service / GitHub / Drive link here)
+https://github.com/ranjith-nayak/HR-Analytics-Dashboard
 
 🙌 Acknowledgements
 
 This project was created for learning and portfolio purposes to strengthen skills in HR Analytics and Data Visualization.
-
 If you want, I can also:
-
 Make this shorter
 
 Add KPIs explanation
